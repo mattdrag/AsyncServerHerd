@@ -1,0 +1,39 @@
+INFO:root:Serving on ('127.0.0.1', 16592) Holiday
+INFO:root:Connection from ('127.0.0.1', 60627)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Propogating message to: Welsh
+INFO:root:Propogating message to: Wilkes
+INFO:root:Connection from ('127.0.0.1', 60631)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 60634)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Hands Wilkes'
+INFO:root:Propogating message to: Welsh
+INFO:root:Serving on ('127.0.0.1', 16592) Holiday
+INFO:root:Serving on ('127.0.0.1', 16592) Holiday
+INFO:root:Connection from ('127.0.0.1', 61282)
+INFO:root:Data received: 'AT Goloman +945284.6480476856 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Propogating message to: Welsh
+INFO:root:Serving on ('127.0.0.1', 16592) Holiday
+INFO:root:Connection from ('127.0.0.1', 61320)
+INFO:root:Data received: 'AT Goloman +945334.0364601612 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 61348)
+INFO:root:Data received: 'AT Hands +945358.1233315468 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 61350)
+INFO:root:Data received: 'AT Hands +945358.1233315468 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 61390)
+INFO:root:Data received: 'AT Hands +945423.5396308899 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 61391)
+INFO:root:Data received: 'AT Hands +945423.5396308899 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman'
+INFO:root:Propogating message to: Welsh
+INFO:root:Serving on ('127.0.0.1', 16592) Holiday
+INFO:root:Connection from ('127.0.0.1', 61548)
+INFO:root:Data received: 'AT Hands +945714.0135247707 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes'
+INFO:root:Propogating message to: Welsh
+INFO:root:Connection from ('127.0.0.1', 61549)
+INFO:root:Data received: 'AT Hands +945714.0135247707 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman'
+INFO:root:Propogating message to: Welsh

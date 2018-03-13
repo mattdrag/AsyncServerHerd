@@ -1,0 +1,82 @@
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 59472)
+INFO:root:Data received: 'AT Goloman +943332.5632731915 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Processing  AT...
+INFO:root:Invalid AT
+INFO:root:Close the client socket
+
+
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 59634)
+INFO:root:Data received: 'AT Goloman +943624.2971310616 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Processing  AT...
+INFO:root:Invalid AT
+INFO:root:Close the client socket
+
+
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 60031)
+INFO:root:Data received: 'AT Goloman +943869.4023025036 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60035)
+INFO:root:Data received: 'AT Goloman +943869.4023025036 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60036)
+INFO:root:Data received: 'AT Goloman +943869.4023025036 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Hands Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 60469)
+INFO:root:Data received: 'AT Goloman +944464.2338423729 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60474)
+INFO:root:Data received: 'AT Goloman +944464.2338423729 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Hands Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60475)
+INFO:root:Data received: 'AT Goloman +944464.2338423729 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60487)
+INFO:root:Connection from ('127.0.0.1', 60489)
+INFO:root:Data received: 'AT Goloman +944471.4207246304 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Data received: 'AT Goloman +944471.4207246304 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Connection from ('127.0.0.1', 60492)
+INFO:root:Data received: 'AT Goloman +944471.4207246304 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Hands Wilkes Holiday'
+INFO:root:Processing  AT...
+INFO:root:Updating neighbors...
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 60632)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Connection from ('127.0.0.1', 60635)
+INFO:root:Connection from ('127.0.0.1', 60637)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes Holiday'
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Hands Wilkes Holiday'
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 61284)
+INFO:root:Data received: 'AT Goloman +945284.6480476856 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 61322)
+INFO:root:Data received: 'AT Goloman +945334.0364601612 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday'
+INFO:root:Connection from ('127.0.0.1', 61349)
+INFO:root:Data received: 'AT Hands +945358.1233315468 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes Holiday'
+INFO:root:Connection from ('127.0.0.1', 61351)
+INFO:root:Data received: 'AT Hands +945358.1233315468 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman Holiday'
+INFO:root:Connection from ('127.0.0.1', 61392)
+INFO:root:Data received: 'AT Hands +945423.5396308899 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes Holiday'
+INFO:root:Connection from ('127.0.0.1', 61393)
+INFO:root:Data received: 'AT Hands +945423.5396308899 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman Holiday'
+INFO:root:Serving on ('127.0.0.1', 16593) Welsh
+INFO:root:Connection from ('127.0.0.1', 61550)
+INFO:root:Data received: 'AT Hands +945714.0135247707 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Wilkes Holiday'
+INFO:root:Connection from ('127.0.0.1', 61551)
+INFO:root:Data received: 'AT Hands +945714.0135247707 kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997 Hands Goloman Holiday'

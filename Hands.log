@@ -1,0 +1,40 @@
+INFO:root:Serving on ('127.0.0.1', 16591) Hands
+INFO:root:Connection from ('127.0.0.1', 60626)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Propogating message to: Wilkes
+INFO:root:Connection from ('127.0.0.1', 60630)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Wilkes'
+INFO:root:Connection from ('127.0.0.1', 60636)
+INFO:root:Data received: 'AT Goloman +944732.914283514 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman Holiday Wilkes'
+INFO:root:Serving on ('127.0.0.1', 16591) Hands
+INFO:root:Serving on ('127.0.0.1', 16591) Hands
+INFO:root:Connection from ('127.0.0.1', 61281)
+INFO:root:Data received: 'AT Goloman +945284.6480476856 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Serving on ('127.0.0.1', 16591) Hands
+INFO:root:Connection from ('127.0.0.1', 61319)
+INFO:root:Data received: 'AT Goloman +945334.0364601612 kiwi.cs.ucla.edu +34.068930-118.445127 1520023934.918963997 Goloman'
+INFO:root:Connection from ('127.0.0.1', 61345)
+INFO:root:Data received: 'IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997'
+INFO:root:Updating client dictionary with: kiwi.cs.ucla.edu
+INFO:root:Propogating message to: Wilkes
+INFO:root:Propogating message to: Goloman
+INFO:root:Close the client socket
+
+
+INFO:root:Connection from ('127.0.0.1', 61387)
+INFO:root:Data received: 'IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997'
+INFO:root:Updating client dictionary with: kiwi.cs.ucla.edu
+INFO:root:Propogating message to: Wilkes
+INFO:root:Propogating message to: Goloman
+INFO:root:Close the client socket
+
+
+INFO:root:Serving on ('127.0.0.1', 16591) Hands
+INFO:root:Connection from ('127.0.0.1', 61545)
+INFO:root:Data received: 'IAMAT kiwi.cs.ucla.edu +34.068930-118.445127 1520023935.918963997'
+INFO:root:Updating client dictionary with: kiwi.cs.ucla.edu
+INFO:root:Propogating message to: Wilkes
+INFO:root:Propogating message to: Goloman
+INFO:root:Close the client socket
+
+
